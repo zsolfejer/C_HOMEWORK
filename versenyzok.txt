@@ -1,0 +1,19 @@
+1 10
+Hosszu_Katinka
+1 11
+Jakabos_Zsuzsanna
+2 20
+Adam_Peaty
+2 21
+Kapas_Boglarka
+3 31
+Kate_Campbell
+3 32
+Caeleb_Dressel
+1 13
+Milak_Kristof
+3 33
+Mireia_Belmonte
+4 40
+Sarah_Sjostrom
+
